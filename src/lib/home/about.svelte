@@ -1,0 +1,35 @@
+<div>
+        <h2 class="py-4 text-center text-3xl font-bold text-gray-800 uppercase">
+        About Me
+      </h2>
+</div>
+
+<section class="about_home" id="about">
+
+        <!-- Image Div -->
+        <div><img src="/drew.webp" alt="" class="rounded-3xl w-3/4">
+        </div>
+
+        <div>
+                <div class="my-5">
+                        <h2 class="text-3xl font-bold mb-2">Andrew "Buck" Long</h2>
+                </div>
+                <!-- Info #2 -->
+                <div class="my-5">
+                        <h3 class="text-xl font-bold mb-2">😎 Hobbies</h3>
+                        <p class="text-gray-500">I enjoy spending time with my fiance, dog and family. I also enjoy film photography, working on music and playing video games.</p>
+                </div>
+                <!-- Info #3 -->
+                <div class="my-5">
+                        <h3 class="text-xl font-bold mb-2">💻 Familiar Languages</h3>
+                        <p class="text-gray-500">HTML, CSS, JavaScript, Svelte.js, React.js, Next.js, HTMX, Python, Golang, Tailwind, Bootstrap</p>
+                </div>
+                <!-- Info #4 -->
+                <div class="my-5">
+                        <h3 class="text-xl font-bold mb-2">👨🏻‍💻 Current Job</h3>
+                        <p class="text-gray-500">Marketing Coordinator over the Sales & SITECH divisions at Thompson Machinery in LaVergne, TN.</p>
+                </div>
+                <div class="flex mx-auto justify-center md:justify-start py-2"><a href="/about" class="about_button">View More</a></div>
+        </div>
+</section>
+

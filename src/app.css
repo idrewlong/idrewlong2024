@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200;300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	font-family: 'Oxanium', sans-serif;
+}
+.page_main {
+	@apply bg-gray-100 p-3 max-w-5xl mx-auto;
+}
+.hero {
+	@apply shadow-lg bg-gray-200 min-h-[30rem] rounded-3xl mb-8 flex justify-center items-center relative p-3 overflow-hidden max-w-7xl mx-auto;
+}
+
+.tabs_section {
+	@apply max-w-7xl mx-auto mb-8;
+}
+
+.tabs_col {
+	@apply grid-cols-1 md:grid-cols-3 gap-5 flex flex-col md:flex-row;
+}
+
+.tabs {
+	@apply shadow-xl rounded-3xl p-5 bg-white flex-grow md:mr-2;
+}
+
+.learn_more_tabs {
+	@apply flex bg-gradient-to-br from-yel_orange to-giants_orange px-4 py-2 rounded-md text-white hover:opacity-80 hover:shadow-sm transition duration-300 justify-center md:justify-start;
+}
+
+.about_button {
+	@apply bg-gradient-to-br from-yel_orange to-giants_orange rounded-md text-white hover:opacity-80 hover:shadow-sm transition duration-300 px-6 py-4;
+}
+
+.lang_home {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
+}
+
+.about_home {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 md:grid-cols-2 gap-5;
+}
+
+.portfolio_home {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 bg-white grid grid-cols-1 md:grid-cols-2 gap-5;
+}
+
+.view_more {
+	@apply bg-gradient-to-br from-yel_orange to-giants_orange px-4 py-2 rounded-md text-white hover:opacity-80 hover:shadow-sm transition duration-300 lg:px-6 lg:py-2;
+}
+
+.cta {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
+}
+
+.brands_home {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
+}
+
+.contact {
+	@apply max-w-xl mx-auto rounded-xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
+}
