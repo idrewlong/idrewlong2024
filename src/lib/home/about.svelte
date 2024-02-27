@@ -7,12 +7,12 @@
 <section class="about_home" id="about">
 
         <!-- Image Div -->
-        <div><img src="/drew.webp" alt="" class="rounded-3xl w-3/4">
+        <div><img src="/drew2.webp" alt="" class="rounded-3xl w-auto">
         </div>
 
         <div>
                 <div class="my-5">
-                        <h2 class="text-3xl font-bold mb-2">Andrew "Buck" Long</h2>
+                        <h2 class="text-3xl font-bold mb-2">Richard Andrew Long</h2>
                 </div>
                 <!-- Info #2 -->
                 <div class="my-5">

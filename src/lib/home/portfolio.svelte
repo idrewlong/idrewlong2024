@@ -40,7 +40,7 @@
 
 <section id="portfolio" class="portfolio_home mt-4">
         <!-- Image Div -->
-        <div class="mx-auto md:order-first"><img src="/portaprod.webp" alt="" class="rounded-xl md:w-full"></div>
+        <div class="mx-auto md:order-first"><img src="/port/lf_steel.webp" alt="" class="rounded-xl md:w-full"></div>
         
         <div>
             <!-- Header -->
@@ -71,7 +71,7 @@
 <section id="portfolio" class="portfolio_home mt-4 md:flex-row-reverse">
         <div class="md:order-2">
             <!-- Image Div -->
-            <div class="mx-auto md:order-2"><img src="/portaprod.webp" alt="" class="rounded-xl md:w-full"></div>
+            <div class="mx-auto md:order-2"><img src="/port/prolink.webp" alt="" class="rounded-xl md:w-full"></div>
         </div>
     
         <div class="order-1">

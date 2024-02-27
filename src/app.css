@@ -11,9 +11,12 @@ html {
 body {
 	font-family: 'Oxanium', sans-serif;
 }
+
 .page_main {
 	@apply bg-gray-100 p-3 max-w-5xl mx-auto;
 }
+
+/* Home Page */
 .hero {
 	@apply shadow-lg bg-gray-200 min-h-[30rem] rounded-3xl mb-8 flex justify-center items-center relative p-3 overflow-hidden max-w-7xl mx-auto;
 }
@@ -62,6 +65,52 @@ body {
 	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
 }
 
+/* Contact Page */
 .contact {
 	@apply max-w-xl mx-auto rounded-xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
+}
+
+/* Portfolio Page */
+.port {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white gap-5;
+}
+
+.grid_port {
+	@apply grid gap-4 md:grid-cols-3;
+}
+
+.grid_port_div {
+	@apply relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg;
+}
+
+.grid_port_img {
+	@apply w-full align-middle;
+}
+
+.grid_port_text_div {
+	@apply flex justify-center text-center;
+}
+
+.grid_h5 {
+	@apply m-6 text-base text-center justify-center font-bold text-black;
+}
+
+.grid_btn_div {
+	@apply flex items-center justify-center;
+}
+
+.grid_btn {
+	@apply px-6 py-3 w-1/2 m-4 duration-200 hover:scale-105 hover:text-orange-400;
+}
+
+.port_templates {
+	@apply max-w-7xl mx-auto mb-8;
+}
+
+.port_tabs_div {
+	@apply grid-cols-1 md:grid-cols-3 gap-5 flex flex-col md:flex-row;
+}
+
+.port_tabs {
+	@apply shadow-xl rounded-3xl p-5 bg-white flex-grow md:mr-2;
 }

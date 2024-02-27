@@ -1,5 +1,5 @@
 <script>
-	import Backtotop from "$lib/backtotop.svelte";
+	
 import About from "$lib/home/about.svelte";
 	import Brands from "$lib/home/brands.svelte";
 import Cta from "$lib/home/cta.svelte";
@@ -16,9 +16,9 @@ import Tabs from "$lib/home/tabs.svelte";
 <Tabs/>
 <!-- <Lang/> -->
 <About/>
-<Lang/>
+<!-- <Lang/> -->
 <Portfolio/>
 <Brands/>
 <Cta/>
-<Backtotop/>
+
 </main>

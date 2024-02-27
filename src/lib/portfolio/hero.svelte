@@ -10,9 +10,11 @@
                 </defs>
             </svg> -->
         <div class="relative">
-                <h2 class="text-5xl md:text-7xl font-bold mb-2 text-center text-transparent bg-clip-text bg-gradient-to-br from-yel_orange to-giants_orange uppercase">Portfolio 
+                <h2 class="text-5xl md:text-7xl font-bold mb-2 text-center text-transparent bg-clip-text bg-gradient-to-br from-yel_orange to-giants_orange uppercase">Portfolio
 
                 </h2>
-                <!-- <p class="text-gray-100 text-lg text-center">Self taught web developer with over 8 years of marketing & video experience!</p> -->
+                <p class="text-gray-800 max-w-lg text-lg text-center">Currently building various applications and websites using Sveltekit, React.js, Next.js and Go!
+
+                </p>
         </div>
 </header>
