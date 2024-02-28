@@ -5,8 +5,9 @@
 	import Templates from '$lib/portfolio/templates.svelte';
 
 
-
 </script>
+
+
 
 <main class="page_main">
 <Hero/>

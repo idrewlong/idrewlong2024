@@ -1,10 +1,10 @@
 <script>
+	import Lang_2 from './../lib/home/lang_2.svelte';
 	
 import About from "$lib/home/about.svelte";
 	import Brands from "$lib/home/brands.svelte";
 import Cta from "$lib/home/cta.svelte";
 import Hero from "$lib/home/hero.svelte";
-	import Lang from "$lib/home/lang.svelte";
 import Portfolio from "$lib/home/portfolio.svelte";
 import Tabs from "$lib/home/tabs.svelte";
 
@@ -14,7 +14,7 @@ import Tabs from "$lib/home/tabs.svelte";
 <main class="page_main">
 <Hero/>
 <Tabs/>
-<!-- <Lang/> -->
+<Lang_2/>
 <About/>
 <!-- <Lang/> -->
 <Portfolio/>

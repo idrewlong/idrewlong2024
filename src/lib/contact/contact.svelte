@@ -1,8 +1,7 @@
 
 
-
 <section class="contact">
-        <div class="flex items-center justify-center bg-white mx-auto max-w-lg px-4">
+        <div class="flex items-center justify-center bg-white mx-auto max-w-lg p-4">
             <div class=" text-center">
                 <h1 class=" text-2xl md:text-4xl font-medium uppercase">Contact Form</h1>
                 <p class="mt-3">Email me at <a class="hover:underline" href="mailto:idrewlong@gmail.com">idrewlong@gmail.com</a>  or message me here:</p>
@@ -32,7 +31,7 @@
                     <input type="hidden" name="from_name" value="id-dev | inquire">
             
                     <!-- Submit button -->
-                    <button type="submit" class="mt-5 w-full md:w-auto rounded-md bg-gradient-to-br from-orange-200 to-orange-400 hover:scale-95 duration-200 px-6 py-3 md:px-8 md:py-3 text-white ">Send Message</button>
+                    <button type="submit" class="mt-5 w-full md:w-auto rounded-md bg-gradient-to-br from-yel_orange to-giants_orange hover:scale-95 duration-200 px-6 py-3 md:px-8 md:py-3 text-white ">Send Message</button>
             
                     <!-- <div class="g-recaptcha" data-sitekey="6LcsMYMnAAAAAKSyZNepGYnV98pyRUpBK7dNtVCF"></div> -->
                 </form>

@@ -106,7 +106,7 @@
                           
                           <div class="grid_port_text_div">
                             <h5 class="grid_h5">
-                             Leflore Steel - Landing Page
+                             Leflore Steel
                             </h5>
                           </div>
               
@@ -194,7 +194,7 @@
                          
                          <div class="grid_port_text_div">
                            <h5 class="grid_h5 ">
-                            Leflore Steel of Greenwood
+                            Leflore Steel
                            </h5>
                          </div>
               
