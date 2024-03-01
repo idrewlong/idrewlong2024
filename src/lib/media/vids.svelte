@@ -1,11 +1,11 @@
 
 <h2 class=" text-center text-3xl font-bold">
-        Video Portfolio <u class="text-primary dark:text-primary-400"> </u>
+        Video Portfolio <u class="text-primary"> </u>
       </h2><section class="px-7">
 <div class="vids">
         <div class="my-8">
             
-                <div class="grid gap-6 md:grid-cols-3 px-8">
+                <div class="grid gap-6 lg:grid-cols-3 px-8">
                   <div
                     class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                     data-te-ripple-init data-te-ripple-color="dark">

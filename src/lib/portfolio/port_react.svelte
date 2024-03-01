@@ -2,7 +2,7 @@
 
 <section class="port">
         <div class="mb-16">
-                <h2 class="mb-12 text-center text-3xl font-bold">
+                <h2 class="mb-12 text-center text-3xl font-bold underline">
                         React.js/Next.js
                 </h2>
               
@@ -13,24 +13,24 @@
                                 class="grid_port_div"
                                 data-te-ripple-init data-te-ripple-color="dark"
                         >
-                                <img src="/port/firebase.jpg" alt="Sveltekit Firebase Fullstack App"
+                                <img src="/port/builder.io.jpg" alt="Builder.io Countdown"
                                 class="grid_port_img" />
 
                                 <div class="shadow-md shadow-gray-600 rounded-lg">
                                            
                                 <div class="grid_port_text_div">
                                         <h5 class="grid_h5">
-                                              Svelte + Firebase App
+                                              Builder.io
                                         </h5>
                                 </div>
                                
                                 <div class="grid_btn_div">
                                         <button class=" grid_btn">
-                                        <a href="/" >Demo</a>
+                                        <a href="https://event-launch-alpha.vercel.app/" >Demo</a>
                                         </button>
 
                                         <button class="grid_btn">
-                                        <a href="https://github.com/idrewlong/svelte-crud" >Code</a>
+                                        <a href="https://github.com/idrewlong/event-launch" >Code</a>
                                         </button>
                                 </div>
                         </div>
@@ -73,23 +73,23 @@
                           class="grid_port_div"
                           data-te-ripple-init data-te-ripple-color="dark"
                         >
-                          <img src="/port/fat8.jpg" alt="Fat8 Media Company - Dallas, Texas"
+                          <img src="/port/massimo.jpg" alt="Massimo Italian Restaurant"
                             class="grid_port_img" />
 
                           <div class="shadow-md shadow-gray-600 rounded-lg">
                             
                             <div class="grid_port_text_div">
                               <h5 class="grid_h5">
-                               Fat8 Media Production
+                                Massimo
                               </h5>
                             </div>
               
                             <div class="grid_btn_div">
                               <button class=" grid_btn">
-                                <a href="https://fat8.vercel.app/" >Demo</a>
+                                <a href="https://nextjs-restaurant-pizza.vercel.app/" >Demo</a>
                               </button>
                               <button class="grid_btn">
-                               <a href="https://github.com/idrewlong/fat8" >Code</a>
+                               <a href="https://github.com/idrewlong/nextjs-restaurant" >Code</a>
                               </button>
                             </div>
                           </div>
@@ -102,22 +102,22 @@
                         class="grid_port_div"
                         data-te-ripple-init data-te-ripple-color="dark"
                       >
-                        <img src="/port/lf_steel.webp" alt="Leflore Steel - Greenwood, MS"
+                        <img src="/port/react_port.jpg" alt="Leflore Steel - Greenwood, MS"
                           class="grid_port_img" />
                         <div class="shadow-md shadow-gray-600 rounded-lg">
                           
                           <div class="grid_port_text_div">
                             <h5 class="grid_h5">
-                             Leflore Steel - Landing Page
+                              React Resume Example
                             </h5>
                           </div>
               
                           <div class="grid_btn_div">
                             <button class="grid_btn">
-                              <a href="https://lefloresteel.vercel.app/" >Demo</a>
+                              <a href="https://claroisreactcv-635r.vercel.app/" >Demo</a>
                             </button>
                             <button class="grid_btn">
-                             <a href="https://github.com/idrewlong/lefloresteel" >Code</a>
+                             <a href="https://github.com/idrewlong/claroisreactcv" >Code</a>
                             </button>
                           </div>
                         </div>
@@ -130,22 +130,22 @@
                        class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                        data-te-ripple-init data-te-ripple-color="dark"
                      >
-                       <img src="/port/iddev.jpg" alt="idrewlong portfolio"
+                       <img src="/port/nextauth.webp" alt="idrewlong portfolio"
                          class="w-full align-middle transition duration-300 ease-linear" />
                        <div class="shadow-md shadow-gray-600 rounded-lg">
                          
                          <div class="grid_port_text_div">
                            <h5 class="grid_h5">
-                            Portfolio Site #2
+                            Next.js 13 Auth
                            </h5>
                          </div>
               
                          <div class="grid_btn_div">
                            <button class="grid_btn">
-                             <a href="https://idrewrcv.vercel.app/" >Demo</a>
+                             <a href="https://next-auth-nine-rho.vercel.app/" >Demo</a>
                            </button>
                            <button class="grid_btn">
-                            <a href="https://github.com/idrewlong/idrewrcv" >Code</a>
+                            <a href="https://github.com/idrewlong/next-auth" >Code</a>
                            </button>
                          </div>
                        </div>
@@ -159,22 +159,22 @@
                         class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                         data-te-ripple-init data-te-ripple-color="dark"
                       >
-                        <img src="/port/prolink.webp" alt="Pro-Link Resumes"
+                        <img src="/port/next13blog.webp" alt="Pro-Link Resumes"
                           class="w-full align-middle transition duration-300 ease-linear" />
                         <div class="shadow-md shadow-gray-600 rounded-lg">
                           
                           <div class="grid_port_text_div">
                             <h5 class="grid_h5">
-                             Pro-Link Resumes
+                             Next.js + Sanity
                             </h5>
                           </div>
               
                           <div class="grid_btn_div">
                             <button class="grid_btn">
-                              <a href="https://prolink.vercel.app/" >Demo</a>
+                              <a href="https://nextblog-idrewlong.vercel.app/" >Demo</a>
                             </button>
                             <button class="grid_btn">
-                             <a href="https://github.com/idrewlong/prolink" >Code</a>
+                             <a href="https://github.com/idrewlong/nextblog" >Code</a>
                             </button>
                           </div>
                         </div>
@@ -186,7 +186,7 @@
               
               
                        <!-- Site #7 -->
-                       <div
+                       <!-- <div
                        class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                        data-te-ripple-init data-te-ripple-color="dark"
                      >
@@ -211,7 +211,7 @@
                        </div>
                        <div>
                        </div>
-                     </div>
+                     </div> -->
               
               
               

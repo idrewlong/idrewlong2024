@@ -25,7 +25,6 @@
             <!-- Info #2 -->
             <div class="my-5">
                 <h3 class="text-xl font-semi-bold mb-2">💻 Built with Svelte & Tailwind CSS</h3>
-                <p class="text-gray-500">Something here..</p>
             </div>
             
             <!-- buttons div -->
@@ -55,13 +54,13 @@
             <!-- Info #2 -->
             <div class="my-5">
                 <h3 class="text-xl font-semi-bold mb-2">💻 Built with Svelte & Tailwind CSS</h3>
-                <p class="text-gray-500">Something here..</p>
+                
             </div>
             
             <!-- buttons div -->
             <div class="flex justify-center space-x-2 md:justify-start md:space-x-4">
-                <a href="https://www.porta.productions/" class="view_more">Visit Site</a>
-                <a href="https://www.porta.productions/" class="view_more">View Code</a>
+                <a href="https://lefloresteelofgreenwood.vercel.app/" class="view_more">Visit Site</a>
+                <a href="https://github.com/idrewlong/leflorest" class="view_more">View Code</a>
             </div>
         </div>
 </section>
@@ -87,13 +86,13 @@
             <!-- Info #2 -->
             <div class="my-5">
                 <h3 class="text-xl font-semi-bold mb-2">💻 Built with Svelte & Tailwind CSS</h3>
-                <p class="text-gray-500">Something here..</p>
+                
             </div>
             
             <!-- buttons div -->
             <div class="flex justify-center space-x-2 md:justify-start md:space-x-4">
-                <a href="https://www.porta.productions/" class="view_more">Visit Site</a>
-                <a href="https://www.porta.productions/" class="view_more">View Code</a>
+                <a href="https://prolink.vercel.app/" class="view_more">Visit Site</a>
+                <a href="https://github.com/idrewlong/prolink" class="view_more">View Code</a>
             </div>
         </div>
 </section>

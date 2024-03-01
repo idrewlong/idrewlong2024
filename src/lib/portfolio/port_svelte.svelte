@@ -1,7 +1,7 @@
 <section class="port">
         <div class="mb-16">
-                <h2 class="mb-12 text-center text-3xl font-bold">
-                        SvelteKit
+                <h2 class="mb-12 text-center text-3xl font-bold underline">
+                        Svelte/ SvelteKit
                 </h2>
               
                       <div class="grid_port">
@@ -24,7 +24,7 @@
                                
                                 <div class="grid_btn_div">
                                         <button class=" grid_btn">
-                                        <a href="/" >Demo</a>
+                                        <a href="https://svelte-crud-blush.vercel.app/" >Demo</a>
                                         </button>
 
                                         <button class="grid_btn">
@@ -124,7 +124,7 @@
                       </div>
               
                        <!-- Site #5 -->
-                       <div
+                       <!-- <div
                        class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                        data-te-ripple-init data-te-ripple-color="dark"
                      >
@@ -149,7 +149,7 @@
                        </div>
                        <div>
                        </div>
-                     </div>
+                     </div> -->
               
               
                   <!-- Site #6 -->
@@ -188,22 +188,23 @@
                        class="zoom relative overflow-hidden rounded-lg bg-cover bg-no-repeat shadow-lg dark:shadow-black/20 bg-[50%]"
                        data-te-ripple-init data-te-ripple-color="dark"
                      >
-                       <img src="/port/lf_steel.webp" alt="React Resume Example"
+                       <img src="/portaprod.webp" alt="Porta Productions"
                          class="w-full align-middle transition duration-300 ease-linear" />
                        <div class="shadow-md shadow-gray-600 rounded-lg">
                          
                          <div class="grid_port_text_div">
                            <h5 class="grid_h5 ">
-                            Leflore Steel
+                            Porta Productions
+                          
                            </h5>
                          </div>
               
                          <div class="grid_btn_div">
                            <button class="grid_btn">
-                             <a href="https://lefloresteelofgreenwood.vercel.app/" >Demo</a>
+                             <a href="https://porta-prod.vercel.app/" >Demo</a>
                            </button>
                            <button class="grid_btn">
-                            <a href="https://github.com/idrewlong/leflorest" >Code</a>
+                            <a href="https://github.com/idrewlong/porta_prod" >Code</a>
                            </button>
                          </div>
                        </div>

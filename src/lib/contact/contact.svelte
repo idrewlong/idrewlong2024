@@ -1,4 +1,6 @@
-
+<script>
+    import { PUBLIC_ACCESS_KEY } from "$env/static/public";
+</script>
 
 <section class="contact">
         <div class="flex items-center justify-center bg-white mx-auto max-w-lg p-4">
@@ -8,7 +10,7 @@
             
                 <!-- Form -->
                 <form action="https://api.web3forms.com/submit" class="mt-10" method="POST">
-                    <input type="hidden" name="access_key" value="bbdea123-0168-476b-b9ac-9886c0cda48a" />
+                    <input type="hidden" name="access_key" value={PUBLIC_ACCESS_KEY} />
             
                     <div class="grid gap-4">
                         <label for="name" class="sr-only">Your name</label>
