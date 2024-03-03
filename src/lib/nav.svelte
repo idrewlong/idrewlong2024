@@ -46,6 +46,7 @@
               <!-- <a class="text-grey-800 duration-500 hover:text-orange-400 hover:underline ease-in-out" href="/blog" on:click={closeNavbar}>Blog</a> -->
               <a class="text-gray-500 duration-500 hover:text-orange-400 hover:underline ease-in-out" href="/portfolio" on:click={closeNavbar}>Portfolio</a>
               <a class="text-gray-500 duration-500 hover:text-orange-400 hover:underline ease-in-out" href="/media" on:click={closeNavbar}>Media</a>
+              <a class="text-gray-500 duration-500 hover:text-orange-400 hover:underline ease-in-out" href="/blog" on:click={closeNavbar}>Blog</a>
               <a class="text-gray-500 duration-500 hover:text-orange-400 hover:underline ease-in-out" href="/contact" on:click={closeNavbar}>Contact</a>
 
               <a href="https://github.com/idrewlong" class="text-gray-400 hover:text-orange-400 duration-200">

@@ -25,7 +25,7 @@
             </svg> -->
         {#if visible}
         <div transition:fade class="relative text-white ">
-                <h2 class="text-5xl md:text-7xl font-black mb-2 text-center uppercase">Contact
+                <h2 class="text-5xl md:text-7xl font-black mb-2 text-center uppercase">Contact<br>
                         <span class="font-light">id-dev</span>
                 </h2>
                 <p class="text-gray-100 text-lg text-center">Interested in working together? Submit a form and let's get to coding!</p>

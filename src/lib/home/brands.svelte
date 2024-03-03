@@ -1,4 +1,3 @@
-
 <div id="branding">
         <h2 class="mt-8 py-2 text-center text-3xl font-bold text-gray-800 uppercase">
         Branding

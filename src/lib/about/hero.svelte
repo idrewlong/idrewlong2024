@@ -1,5 +1,13 @@
 <script>
+	import { fade } from 'svelte/transition';
+	let visible = false;
 
+        onMount(() => {
+        // Set visible to true after a short delay to trigger the fade-in transition
+        setTimeout(() => {
+            visible = true;
+        }, 200);
+    });
 
 import { onMount, onDestroy } from 'svelte';
     
@@ -31,8 +39,8 @@ import { onMount, onDestroy } from 'svelte';
 
 <header class="hero_about">
         <img class="hero_bg" src="/bg_3.webp" alt="id-dev background">
-  
-    <div class="hero_about_container">
+    {#if visible}
+    <div transition:fade class="hero_about_container">
       <div class="flex flex-col items-center"> 
         <div class="p-4 text-center md:mt-0 flex flex-col items-center justify-center"> 
         
@@ -45,6 +53,7 @@ import { onMount, onDestroy } from 'svelte';
         </div>
       </div>
     </div>
+    {/if}
 </header>
 
 

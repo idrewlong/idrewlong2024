@@ -33,4 +33,3 @@
                 <div class="flex mx-auto justify-center md:justify-start py-2"><a href="/about" class="about_button">View More</a></div>
         </div>
 </section>
-

@@ -1,4 +1,3 @@
-
 <div id="portfolio">
         <h2 class="py-4 text-center text-3xl font-bold text-gray-800 uppercase">
         Portfolio
