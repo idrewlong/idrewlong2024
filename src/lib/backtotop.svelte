@@ -44,4 +44,4 @@
       
       <svelte:window on:scroll={handleOnScroll} />
       
-      <div class="back-to-top bg-gradient-to-br from-yel_orange to-giants_orange px-4 py-2 rounded-md" on:click={goTop} class:hidden>Back to top</div>
+      <button class="back-to-top bg-gradient-to-br from-yel_orange to-giants_orange px-4 py-2 rounded-md" on:click={goTop} class:hidden>Back to top</button>

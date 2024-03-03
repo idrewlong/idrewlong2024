@@ -1,3 +1,21 @@
+<section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 ">
+        <div class="flex justify-center">
+          <h1 class="font-bold text-center text-xl md:text-3xl">Web Developer | Software Developer</h1>
+        </div>
+        <div class="flex justify-center">
+                <h2 class="font-semibold text-center text-xs md:text-xl">Front-End Developer | Back-End Developer </h2>
+        </div>
+        <div class="flex justify-center">
+                <p class="text-center"><a class="hover:text-orange-400 duration-300" href="mailto:idrewlong@gmail.com">idrewlong@gmail.com</a> | Nashville, TN</p>
+        </div>
+</section>
+
+<section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1">
+        <div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+</section>
+
 <section class="resume">
         <div class="flex flex-col">
                 <div class="my-5">

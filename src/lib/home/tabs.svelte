@@ -3,7 +3,7 @@
                 <!-- tab #1 -->
                 <div class="tabs">
                         <h3 class="text-2xl font-bold mb-2">About</h3>
-                        <p class="text-gray-500 mb-2">Just a small town guy continously expanding my knowledge while I'm on earth.</p>
+                        <p class="text-gray-500 mb-2">Just a guy continously expanding my knowledge while I'm on earth.</p>
                         <a href="#about" class="learn_more_tabs">Learn More</a>
                 </div>
                 <!-- tab #2 -->

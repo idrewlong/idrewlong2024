@@ -101,6 +101,6 @@
         </div>
 </section>
 
-<div class="flex mx-auto justify-center mt-4">
+<div class="flex mx-auto justify-center mt-2 py-8">
         <a href="/portfolio" class="view_more">More Projects</a>
 </div>

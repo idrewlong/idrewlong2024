@@ -1,72 +1,61 @@
 <script>
-	import powerpoint from '/src/img/pp.webp'
-	import excel from '/src/img/excel.webp';
-	import word from '/src/img/word.webp';
-	import vscode from '/src/img/vs.webp';
-        import aftereffects from '/src/img/aftereffects.webp';
-        import photoshop from '/src/img/photoshop.webp';
-	import lightroom from '/src/img/lightroom.webp';
-	import premiere from '/src/img/premiere.webp';
-        import figma from '/src/img/figma.webp';
-	import xd from '/src/img/xd.webp';
-	import acrobat from '/src/img/acrobat.webp';
+	import html from '/src/img/html.webp';
+	import css from '/src/img/css.webp';
+	import js from '/src/img/js.webp';
+        import ts from '/src/img/typescript.webp';
+        import react from '/src/img/react.webp';
+	import next from '/src/img/next.webp';
+	import svelte from '/src/img/svelte.webp';
+        import python from '/src/img/python.webp';
+	import go from '/src/img/go.webp';
+	
         const links = [
                 {
-			src: vscode,
-			title: 'VS Code',
-			style: 'shadow-blue-500',
-		},
-		{
-			src: word,
-			title: 'Word',
-			style: 'shadow-blue-500',
-		},
-		{
-			src: excel,
-			title: 'Excel',
-			style: 'shadow-green-500',
-		},
-		{
-			src: powerpoint,
-			title: 'Power Point',
+			src: html,
+			title: 'HTML',
 			style: 'shadow-orange-500',
 		},
 		{
-			src: photoshop,
-			title: 'Photoshop',
+			src: css,
+			title: 'CSS',
 			style: 'shadow-blue-500',
 		},
+		{
+			src: js,
+			title: 'Javascript',
+			style: 'shadow-yellow-500',
+		},
+		{
+			src: react,
+			title: 'React.js',
+			style: 'shadow-blue-300',
+		},
                 {
-			src: lightroom,
-			title: 'Lightroom',
-			style: 'shadow-blue-500',
-		},
-                {
-			src: premiere,
-			title: 'Premiere',
-			style: 'shadow-purple-800',
-		},
-
-		{
-			src: aftereffects,
-			title: 'After Effects',
-			style: 'shadow-purple-800',
-		},
-
-		{
-			src: xd,
-			title: 'XD',
-			style: 'shadow-pink-400',
-		},
-		{
-			src: acrobat,
-			title: 'Acrobat',
-			style: 'shadow-red-600',
-		},
-		{
-			src: figma,
-			title: 'Figma',
+			src: next,
+			title: 'Next.js',
 			style: 'shadow-gray-500',
+		},
+                {
+			src: svelte,
+			title: 'Svelte.js',
+			style: 'shadow-orange-600',
+		},
+
+		{
+			src: ts,
+			title: 'Type Script',
+			style: 'shadow-blue-500',
+		},
+
+		{
+			src: python,
+			title: 'Python',
+			style: 'shadow-yellow-400',
+		},
+		{
+			src: go,
+			title: 'Go',
+			style: 'shadow-blue-400',
 		},
         ]
 </script>
