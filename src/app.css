@@ -61,6 +61,21 @@ body {
 	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
 }
 
+.brands_div {
+	@apply container px-6 py-6 mx-auto;
+}
+
+.brands {
+	@apply grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3;
+}
+
+.brands_bg {
+	@apply overflow-hidden bg-cover bg-center rounded-lg  h-96;
+}
+
+.brands_txt_div {
+	@apply flex flex-col justify-center w-full h-full px-8 py-4 transition-opacity duration-700 opacity-0 backdrop-blur-sm bg-gray-800/60 group-hover:opacity-100;
+}
 /* ---------------------------------------------- */
 /* About Page */
 
@@ -77,7 +92,7 @@ body {
 }
 
 .hero_about_h1 {
-	@apply text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12;
+	@apply text-4xl sm:text-5xl md:text-6xl  font-bold tracking-tight mb-12;
 }
 
 .about_btn_div {
@@ -104,6 +119,10 @@ body {
 	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-2 my-8 bg-white grid grid-cols-1 gap-5;
 }
 
+.bio_about {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 grid grid-cols-1 md:grid-cols-2 gap-5;
+}
+
 /* .slider {
 	@apply mx-auto overflow-hidden relative sm:w-[500px] h-[125px] md:w-[700px] lg:w-[925px];
 } */
@@ -113,12 +132,12 @@ body {
 }
 
 .about_about {
-	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 md:grid-cols-2 gap-5;
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 gap-5;
 }
 
-.soft_prog {
+/* .soft_prog {
 	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid  gap-5;
-}
+} */
 /* ---------------------------------------------- */
 /* Portfolio Page */
 .port {
@@ -182,4 +201,11 @@ body {
 /* Contact Page */
 .contact {
 	@apply max-w-xl mx-auto rounded-xl shadow-lg my-8 p-8 bg-white grid grid-cols-1 gap-5;
+}
+
+/* ---------------------------------------------- */
+/* Resume Page */
+
+.resume {
+	@apply max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 md:grid-cols-2 gap-5;
 }

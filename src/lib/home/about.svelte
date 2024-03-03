@@ -7,7 +7,7 @@
 <section class="about_home" id="about">
 
         <!-- Image Div -->
-        <div><img src="/drew2.webp" alt="" class="rounded-3xl w-auto">
+        <div><img src="/drew2.webp" alt="Andrew Long pfp" class="rounded-xl w-auto">
         </div>
 
         <div>
@@ -17,7 +17,8 @@
                 <!-- Info #2 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold mb-2">😎 Hobbies</h3>
-                        <p class="text-gray-500">I enjoy spending time with my fiance, dog and family. I also enjoy film photography, working on music and playing video games.</p>
+                        <p class="text-gray-500">I love hanging out with my fiancé, our dog Bo, and my family. When I'm not with them, you'll probably find me exploring with my film camera, working on music , or playing Fallout New Vegas.
+                        </p>
                 </div>
                 <!-- Info #3 -->
                 <div class="my-5">

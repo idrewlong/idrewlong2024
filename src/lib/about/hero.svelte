@@ -30,26 +30,18 @@ import { onMount, onDestroy } from 'svelte';
 </script>
 
 <header class="hero_about">
-        <img class="hero_bg" src="/bg_3.webp" alt="">
+        <img class="hero_bg" src="/bg_3.webp" alt="id-dev background">
   
     <div class="hero_about_container">
-      <div class="gap-12 flex flex-col md:flex-row items-center"> 
-        <div class="p-4 text-center md:text-left md:mt-0 md:w-1/2 flex flex-col items-center md:items-start justify-center"> 
+      <div class="flex flex-col items-center"> 
+        <div class="p-4 text-center md:mt-0 flex flex-col items-center justify-center"> 
         
           <h1 class="hero_about_h1">Hello, I am  <br /><span class="text-orange-400">{slides[currentIndex].text}</span></h1>
         
           <div class="about_btn_div"> 
             <a class="hero_about_btn" data-mdb-ripple="true" data-mdb-ripple-color="light" href="https://www.linkedin.com/in/idrewlong" role="button">LinkedIn</a>
-            <a class="hero_about_btn2" data-mdb-ripple="true" data-mdb-ripple-color="light" href="/contact" role="button">Contact</a>
+            <a class="hero_about_btn2" data-mdb-ripple="true" data-mdb-ripple-color="light" href="/resume" role="button">Resume</a>
           </div>
-        </div>
-
-        <div class="hero_about_img_div">
-          <img
-            src="drew2.webp"
-            class="hero_about_img"
-            alt="Andrew Long"
-          />
         </div>
       </div>
     </div>
