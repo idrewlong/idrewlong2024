@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
 	import html from '/src/img/html.webp';
 	import css from '/src/img/css.webp';
 	import js from '/src/img/js.webp';
@@ -71,4 +71,21 @@
                     {/each}
                 </div>
             </div>
+</section> -->
+
+<section class="lang_skills">
+	<div>
+		<ul>
+			<li>
+				<b>Proficient:</b> HTML, CSS, JavaScript, Svelte.js, Next.js, Tailwind CSS, Golang
+			</li>
+			<li>
+				<b>Familiar:</b> C#, Java, React.js, Node.js, Express.js, Python, Pandas, Numpy
+			</li>
+			<li>
+				<b>Databases:</b> MongoDB, Firebase, Pocketbase
+			</li>
+			<li><b>Tools:</b> Git, VSCode, Jupyter Notebook, Anaconda</li>
+		</ul>
+	</div>
 </section>

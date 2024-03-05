@@ -1,3 +1,4 @@
+<!-- Header -->
 <section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 ">
         <div class="flex justify-center">
           <h1 class="font-bold text-center text-xl md:text-3xl">Web Developer | Software Developer</h1>
@@ -10,12 +11,45 @@
         </div>
 </section>
 
+<!-- About -->
 <section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1">
-        <div>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div class="flex flex-col max-w-6xl mx-auto justify-center items-center">
+                <p><b>Tech-savvy Professional & Developer</b> specializing in marketing design, translating brand guidelines into impactful concepts. Proficient in content creation and web development, with a keen eye for design aesthetics and user experience. Adept at collaborating and leading with cross-functional teams and clients to deliver high-quality digital solutions. </p>
+                <ul class="p-4">
+                        <li> - <b>A pragmatic leader,</b> driving successful marketing strategies and providing engaging user experiences on the web; instrumental in crafting dynamic landing pages, email templates, and digital assets to elevate user experience. </li>
+                        <li class="mt-2">
+                         - <b>Proven track record </b> of optimizing brand recognition and delivering high-performance websites. Devoted to ensuring robust, visually appealing experiences via strategic layout optimization, navigation refinement, and responsive design. 
+                        </li>
+                </ul>
+        </div>
+</section >
+
+<!-- Expertise -->
+<section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1">
+        <div class="my-5">
+                <h2 class="text-3xl font-bold mb-2 underline">Areas of Expertise</h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 ">
+                <ul>
+                        <li>test</li>
+                        <li>test</li>
+                        <li>test</li>
+                </ul>
+                <ul>
+                        <li>test</li>
+                        <li>test</li>
+                        <li>test</li>
+                </ul>
+                <ul>
+                        <li>test</li>
+                        <li>test</li>
+                        <li>test</li>
+                </ul>
         </div>
 </section>
 
+<!-- Experience/ EDU -->
 <section class="resume">
         <div class="flex flex-col">
                 <div class="my-5">
@@ -25,19 +59,19 @@
                 <div class="my-5">
                         <h3 class="text-xl font-bold ">Thompson Machinery</h3>
                         <span>Marketing Coordinator</span>
-                        <p class="text-gray-500">I enjoy spending time with my fiance, dog and family. I also enjoy film photography, working on music and playing video games.</p>
+                        <p class="text-gray-500">Led comprehensive marketing and sales initiatives for both the sales and SITECH divisions. Established and nurtured strong relationships with sales managers and coordinators, fostering a culture of collaborative leadership. Worked closely with cross-functional teams to implement Caterpillar standardized marketing strategies. Utilized in-depth analysis of client data to refine and accurately define Ideal Customer Profiles (ICPs) tailored to specific regions. Designed and developed comprehensive landing pages utilizing HTML, CSS and JavaScript. </p>
                 </div>
                 <!-- Info #3 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold">Finder's Guide</h3>
                         <span>Owner | Web Developer | Marketing Manager</span>
-                        <p class="text-gray-500">HTML, CSS, JavaScript, Svelte.js, React.js, Next.js, HTMX, Python, Golang, Tailwind, Bootstrap</p>
+                        <p class="text-gray-500">Orchestrate client projects, specializing in Marketing and Branding strategies. Maintain direct sales and cultivated strong client relationships. Collaborated with cross-functional remote teams to implement innovative social media and marketing strategies. Established branding strategies for prominent companies, including 44 Construction, Fat8 Media, Leflore Steel, TRKBX, and Provinyl Studio. Utilized frameworks such as React.js, Next.js, and Svelte to craft seamless interfaces with server-side rendering (SSR) for optimal website performance.</p>
                 </div>
                 <!-- Info #4 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold">Core Logic</h3>
                         <span>Customer Support Specialist</span>
-                        <p class="text-gray-500">Marketing Coordinator over the Sales & SITECH divisions at Thompson Machinery in LaVergne, TN.</p>
+                        <p class="text-gray-500">Selected to identify and meet customer needs and assist customers in utilizing specific features in the software, including DASH, Pro-Assist, Luxor XactAnalysis, and Xactimate. Collaborated with cross-functional teams in a SCRUM environment to address client issues and enhance the customer experience.</p>
                 </div>
                 <!-- <div class="flex mx-auto justify-center md:justify-start py-2"><a href="/about" class="about_button">Resume</a></div> -->
         </div>
@@ -68,8 +102,11 @@
         </div>
 </section>
 
+<!-- Skills -->
+<section class="resume"></section>
 
 
+<!-- Awards/Organizations -->
 <section class="resume">
         <div class="flex flex-col">
                 <div class="my-5">
@@ -143,6 +180,7 @@
         </div>
 </section>
 
+<!-- Certifications -->
 <section class="port_templates">
         <div class="port_tabs_div">
                 <div class="port_tabs">
