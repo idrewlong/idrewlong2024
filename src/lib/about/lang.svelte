@@ -80,7 +80,7 @@
 				<b>Proficient:</b> HTML, CSS, JavaScript, Svelte.js, Next.js, Tailwind CSS, Golang
 			</li>
 			<li>
-				<b>Familiar:</b> C#, Java, React.js, Node.js, Express.js, Python, Pandas, Numpy
+				<b>Familiar:</b> React.js, Node.js, Express.js, Java, Python, Pandas, Numpy
 			</li>
 			<li>
 				<b>Databases:</b> MongoDB, Firebase, Pocketbase
