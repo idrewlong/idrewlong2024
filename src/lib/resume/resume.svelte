@@ -62,7 +62,7 @@
                 <div class="my-5">
                         <h3 class="text-xl font-bold ">Thompson Machinery</h3>
                         <span>Marketing Coordinator</span>
-                        <p class="text-gray-500">Managed and led comprehensive marketing initiatives for both the sales and SITECH divisions. Established and nurtured strong relationships with sales managers and coordinators, fostering a culture of collaborative leadership. <br>Worked closely with cross-functional teams to implement Caterpillar standardized marketing strategies. Utilized in-depth analysis of client data to refine and accurately define Ideal Customer Profiles (ICPs) tailored to specific regions. Designed and developed comprehensive landing pages utilizing HTML, CSS and JavaScript. </p>
+                        <p class="text-gray-500">Manage and lead comprehensive marketing initiatives for both the sales and SITECH divisions. Establish and nurture strong relationships with sales managers and coordinators, fostering a culture of collaborative leadership. Work closely with cross-functional teams to implement Caterpillar standardized marketing strategies. Utilize in-depth analysis of client data to refine and accurately define Ideal Customer Profiles (ICPs) tailored to specific regions. Design and develop comprehensive landing pages utilizing HTML, CSS and JavaScript. </p>
                 </div>
                 <!-- Info #3 -->
                 <div class="my-5">
