@@ -23,7 +23,7 @@
                 <!-- Info #3 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold mb-2">💻 Familiar Languages</h3>
-                        <p class="text-gray-500">HTML, CSS, JavaScript, Svelte.js, React.js, Next.js, HTMX, Python, Golang, Tailwind, Bootstrap</p>
+                        <p class="text-gray-500">HTML, CSS, JavaScript, Typescript, Svelte.js, React.js, Next.js, Python, Golang, Tailwind, Bootstrap</p>
                 </div>
                 <!-- Info #4 -->
                 <div class="my-5">

@@ -3,7 +3,39 @@
         Portfolio
       </h2>
 </div>
+
 <!-- Portfolio Item #1 -->
+
+<section id="portfolio" class="portfolio_home mt-4">
+    <!-- Image Div -->
+    <div class="mx-auto md:order-first"><img src="/port/showerpower.webp" alt="Shower Power" class="rounded-xl md:w-full"></div>
+    
+    <div>
+        <!-- Header -->
+        <div class="my-3">
+            <h2 class="text-3xl font-bold mb-2">Shower Power</h2>
+        </div>
+        <!-- Info #1 -->
+        <div class="my-5">
+            <h3 class="text-xl font-semi-bold mb-2">📄  About the Project</h3>
+            <p class="text-gray-500">Shower Power is a non-profit organization based in Jackson, Mississippi, offering showers, meals, clothing, and housing to the homeless. This is a proposed branding and website refresh for their board. This project is a tribute to my friend Austin Elliott, whose parents are closely connected to the organization.
+            </p>
+        </div>
+        <!-- Info #2 -->
+        <div class="my-5">
+            <h3 class="text-xl font-semi-bold mb-2">💻 Built with Svelte & Tailwind CSS</h3>
+            
+        </div>
+        
+        <!-- buttons div -->
+        <div class="flex justify-center space-x-2 md:justify-start md:space-x-4">
+            <a href="https://showerpower.vercel.app/" class="view_more">Visit Site</a>
+            <a href="https://github.com/idrewlong/showerpower" class="view_more">View Code</a>
+        </div>
+    </div>
+</section>
+
+<!-- Portfolio Item #2 -->
 
 <section class="portfolio_home mt-4 md:flex-row-reverse">
         <div class="md:order-2">
@@ -36,7 +68,7 @@
         </div>
 </section>
 
-<!-- Portfolio Item #2 -->
+<!-- Portfolio Item #3 -->
 
 <section id="portfolio" class="portfolio_home mt-4">
         <!-- Image Div -->
@@ -68,7 +100,7 @@
         </div>
 </section>
     
-<!-- Portfolio Item #3 -->
+<!-- Portfolio Item #4 -->
 
 <section id="portfolio" class="portfolio_home mt-4 md:flex-row-reverse">
         <div class="md:order-2">

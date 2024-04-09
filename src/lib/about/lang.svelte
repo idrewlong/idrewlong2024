@@ -77,15 +77,17 @@
 	<div>
 		<ul>
 			<li>
-				<b>Proficient:</b> HTML, CSS, JavaScript, Svelte.js, Next.js, Tailwind CSS, Golang
+				<b>Languages:</b> HTML, CSS, JavaScript, Typescript, SQL, NoSQL, Go, Python
 			</li>
 			<li>
-				<b>Familiar:</b> React.js, Node.js, Express.js, Java, Python, Pandas, Numpy
+				<b>Frameworks:</b> Next.js, React.js, Svelte.js, SvelteKit, Express, Bootstrap, Tailwind CSS
 			</li>
 			<li>
-				<b>Databases:</b> MongoDB, Firebase, Pocketbase
+				<b>Cloud and Tools:</b> Firebase, MongoDB, GraphQL, Cloudflare, Vercel, Wordpress, Google Suite, Git
 			</li>
-			<li><b>Tools:</b> Git, VSCode, Jupyter Notebook, Anaconda</li>
+			<li>
+				<b>Other Software:</b> Figma, Canva, Adobe Creative Suite, Microsoft Office, Microsoft Dyanmics, Power BI, Jira, Salesforce
+			</li>
 		</ul>
 	</div>
 </section>
