@@ -61,7 +61,7 @@
                                   <a href="https://nextjs-restaurant-pizza.vercel.app/" >Demo</a>
                                 </button>
                                 <button class="grid_btn">
-                                 <a href="https://github.com/idrewlong/nextjs-restaurant" >Code</a>
+                                 <a href="https://github.com/idrewlong/nextjs-restaurant" >Code </a>
                                 </button>
                               </div>
                             </div>
