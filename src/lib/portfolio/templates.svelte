@@ -6,11 +6,11 @@
                 <div class="port_tabs">
                         <h3 class="text-2xl font-bold mb-2 underline">Python</h3>
                         <ul>
-                                <li class="port_projects"><a href="https://github.com/idrewlong/youtube_py">Video Downloader</a></li>
-                                <li class="port_projects"><a href="https://github.com/idrewlong/pyth_alarmclock">Timer/ Alarm Clock</a></li>
+                                <li class="port_projects"><a href="https://github.com/idrewlong/youtube_py">Video Download App</a></li>
+                                <li class="port_projects"><a href="https://github.com/idrewlong/py-api">Flask API</a></li>
+                                <!-- <li class="port_projects"><a href="https://github.com/idrewlong/pyth_alarmclock">Timer/ Alarm Clock</a></li> -->
                                 <li class="port_projects"><a href="https://github.com/idrewlong/weather_pyth">Weather App</a></li>
                                 <li class="port_projects"><a href="https://github.com/idrewlong/password_gen">Password Generator</a></li>
-                                <li class="port_projects"><a href="https://github.com/idrewlong/py-api">Flask API</a></li>
                         </ul>
                         
                 </div>
