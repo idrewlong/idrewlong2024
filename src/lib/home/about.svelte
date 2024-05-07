@@ -28,7 +28,7 @@
                 <!-- Info #4 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold mb-2">👨🏻‍💻 Current Job</h3>
-                        <p class="text-gray-500">Marketing Coordinator over the Sales & SITECH divisions at Thompson Machinery in LaVergne, TN.</p>
+                        <p class="text-gray-500">Marketing Developer/ Coordinator over the Sales & SITECH divisions at Thompson Machinery in LaVergne, TN.</p>
                 </div>
                 <div class="flex mx-auto justify-center md:justify-start py-2"><a href="/about" class="about_button">View More</a></div>
         </div>

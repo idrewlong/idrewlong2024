@@ -73,20 +73,20 @@
             </div>
 </section> -->
 
-<section class="lang_skills">
+<section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 grid grid-cols-1 gap-5">
 	<div>
 		<ul>
 			<li>
-				<b>Languages:</b> HTML, CSS, JavaScript, Typescript, SQL, NoSQL, Go, Python
+				<b>Languages:</b> HTML, CSS, JavaScript, Typescript, SQL, MySQL, Go, Python, C#/ .NET
 			</li>
 			<li>
 				<b>Frameworks:</b> Next.js, React.js, Svelte.js, SvelteKit, Express, Bootstrap, Tailwind CSS
 			</li>
 			<li>
-				<b>Cloud and Tools:</b> Firebase, MongoDB, GraphQL, Cloudflare, Vercel, Wordpress, Google Suite, Git
+				<b>Cloud and Tools:</b> Firebase, MongoDB, GraphQL, Prisma, Cloudflare, Vercel, Wordpress, Google Suite, Git
 			</li>
 			<li>
-				<b>Other Software:</b> Figma, Canva, Adobe Creative Suite, Microsoft Office, Microsoft Dyanmics, Power BI, Jira, Salesforce
+				<b>Other Software:</b> Figma, Canva, Adobe Creative Suite, Microsoft Office, Microsoft Dyanmics, Power Apps, Power BI, Jira, Salesforce
 			</li>
 		</ul>
 	</div>
