@@ -1,10 +1,10 @@
 <!-- Header -->
 <section class="max-w-7xl mx-auto rounded-3xl shadow-lg p-5 my-8 bg-white grid grid-cols-1 ">
         <div class="flex justify-center">
-          <h1 class="font-bold text-center text-xl md:text-3xl">Web Developer | Software Developer</h1>
+          <h1 class="font-bold text-center text-xl md:text-3xl">Project Manager | Developer</h1>
         </div>
         <div class="flex justify-center">
-                <h2 class="font-semibold text-center text-xs md:text-xl">Front-End Development | UI/UX | SEO | API's </h2>
+                <h2 class="font-semibold text-center text-xs md:text-xl">Front-End Development | UI/UX | SEO | Data Analysis | Marketing </h2>
         </div>
         <div class="flex justify-center">
                 <p class="text-center"><a class="hover:text-orange-400 duration-300" href="mailto:idrewlong@gmail.com">idrewlong@gmail.com</a> | Nashville, TN</p>
@@ -39,13 +39,13 @@
                 </ul>
                 <ul class="space-y-2">
                         <li> - Content Development & Support</li>
-                        <li> - Data Structures & Algorithms</li>
+                        <li> - Data Analysis </li>
                         <li> - Business Development & Marketing</li>
                         <li class="pb-2 md:mb-0"> - Interactive Web Components</li>
                 </ul>
                 <ul class="space-y-2">
                         <li> - Develop API's</li>
-                        <li> - Object-Oriented Programming</li>
+                        <li> - Database Management</li>
                         <li> - Cross-Functional Collaboration</li>
                         <li> - Data-Driven Decision Making</li>
                 </ul>
@@ -61,14 +61,14 @@
                 <!-- Info #2 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold ">Thompson Machinery</h3>
-                        <span>Marketing Coordinator</span>
-                        <p class="text-gray-500">Manage and lead comprehensive marketing initiatives for both the sales and SITECH divisions. Establish and nurture strong relationships with sales managers and coordinators, fostering a culture of collaborative leadership. Work closely with cross-functional teams to implement Caterpillar standardized marketing strategies. Utilize in-depth analysis of client data to refine and accurately define Ideal Customer Profiles (ICPs) tailored to specific regions. Design and develop comprehensive landing pages utilizing HTML, CSS and JavaScript. </p>
+                        <span>Marketing Project Manager</span>
+                        <p class="text-gray-500">Strategize, manage, and lead comprehensive marketing initiatives for both the sales and SITECH divisions. This involves organizing and orchestrating lead generation events in collaboration with ISR’s and Sales Reps spanning North Mississippi and Tennessee. Craft and execute email campaigns utilizing HTML/CSS for emerging CAT sales initiatives, events, and timely news updates. Additionally, design and develop comprehensive landing pages for campaigns using Next JS, TailwindCSS, and Makeswift NPM package, and develop various page designs and code for the company’s website through Wordpress utilizing HTML, CSS, and Javascript. Built internal marketing forms and planner using Microsoft Power Apps and .NET/C# to improve workflow and project coordination between departments. Furthermore, I refine data and develop MySQL databases to utilize within PowerBI for key visualization metrics, and create Power BI dashboards with sales and marketing data to determine areas of concern to improve market share for Caterpillar machines within the dealership territory. Collaborate with stakeholders to identify and understand company objectives, translating them into visual representations of key data points. Strategize and implement SEO strategies for diverse products and campaigns, leveraging Google Analytics and keyword optimization techniques to enhance online visibility and drive organic traffic. </p>
                 </div>
                 <!-- Info #3 -->
                 <div class="my-5">
                         <h3 class="text-xl font-bold">Finder's Guide</h3>
                         <span>Owner | Web Developer | Marketing Manager</span>
-                        <p class="text-gray-500">Orchestrate client projects, specializing in Marketing and Branding strategies. Maintain direct sales and cultivated strong client relationships. Collaborated with cross-functional remote teams to implement innovative social media and marketing strategies. Established branding strategies for prominent companies, including 44 Construction, Fat8 Media, Leflore Steel, TRKBX, and Provinyl Studio. Utilized frameworks such as React.js, Next.js, and Svelte to craft seamless websites with server-side rendering (SSR) for optimal website performance.</p>
+                        <p class="text-gray-500">Orchestrated client projects, specializing in Web Development, Data Analysis, and Marketing strategies. This involved establishing branding strategies for companies such as 44 Construction, Laserbrain VFX, Leflore Steel, TRKBX, and Provinyl Studio. Analyzed and developed scopes of action for continuous improvement in various companies' processes to enhance methods of data collection and utilization. Additionally, I built and collaborated with cross-functional remote teams to implement advertisement strategies, including SEM campaigns, social media ad campaigns, and billboard campaigns. Utilized languages and frameworks like React, Next.js, Svelte.js, and TailwindCSS, to design and develop seamless customer websites with intuitive UI/UX. Furthermore, I addressed online business visibility and discoverability by helping clients scale outside of their local market through SEO tactics.                        </p>
                 </div>
                 <!-- Info #4 -->
                 <div class="my-5">
@@ -116,7 +116,7 @@
                         <li> - Microsoft Office</li>
                         <li> - Microsoft Dynamics</li>
                         <li> - Power BI</li>
-                        <li> - Salesforce</li>
+                        <li> - Tableau</li>
                         <li class="pb-2 md:mb-0"> - Jira</li>
                 </ul>
                 <ul class="space-y-2">
