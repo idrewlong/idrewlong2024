@@ -18,7 +18,7 @@
                 <h2 class="text-4xl md:text-7xl font-black mb-2 text-center">Welcome to 
                         <span class="font-light">id-dev</span>
                 </h2>
-                <p class="text-gray-100 text-lg text-center">Andrew Long | Web Developer</p>
+                <p class="text-gray-100 text-lg text-center">Andrew Long | Web Developer | Data Analysis</p>
                 <!-- <a href="/portfolio" class="flex justify-center items-center"><button class="px-2 py-1 bg-white text-black rounded-md">Check out my work!</button></a> -->
         </div>
         {/if}
